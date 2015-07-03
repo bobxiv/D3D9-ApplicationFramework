@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="App" Collapsed="true">
+    <Position X="5.75" Y="2.25" Width="1.5" />
+    <NestedTypes>
+      <Typedef Name="App::WndClassStyle" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>App.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+      <Typedef Name="App::WndInstanceStyle" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>App.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+      <Typedef Name="App::WndInstanceExStyle" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>App.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+      <Enum Name="App::InputDevice" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>App.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AIwDFIIkSBAAcRYAAAgAMAFAAQAnAAEIIhogSCpgAAY=</HashCode>
+      <FileName>App.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KeyboardMG" Collapsed="true">
+    <Position X="2.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAgAAAACAAAAAQAAAAABAAAAAAABAAAAAAAABAAEAAA=</HashCode>
+      <FileName>Keyboard.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CameraMG" Collapsed="true">
+    <Position X="8" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgQAQAAAIABAgAAgAACEAAACBAwBAAAAAIAAAAAI=</HashCode>
+      <FileName>Camera.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
